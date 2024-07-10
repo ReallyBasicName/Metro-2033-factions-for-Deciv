@@ -1,17 +1,149 @@
 [
-	//Only put here so it doesn't get lost
-	/*CS types for minor factions:
-	VDNKh Commonwealth: Trading, should provide Tea Leaves to its suzerain or conqueror like Fo Guang Shan in base DeCiv
+	//Major Factions
+	//City-States
+	/*
 	//1905 Confederation: Not sure; possibly exclude due to lack of info in-universe
-	Arbat Confederation: Trading
-	Baumansky Alliance: Labor
-	The Armory: Weapons
-	Belorusskaya Trade Outpost: Farming
-	Children of the Underground: Not sure, possibly Weapons
-	Great Worm Cult: Prayer
 	Revolutionaries: Possibly don't include them and instead treat them as part of the Red Line proper
 	Satanists: Another minor faction to likely exclude
-	The Watchtower: Prayer
-	Huliaipole Republic: Not sure, possibly Cultural or Weapons
-	Molodezhnaya: Also not sure*/
+	*/
+	{
+		"name": "VDNKh Commonwealth", //Trading, should provide Tea Leaves to its suzerain or conqueror like Fo Guang Shan in base DeCiv
+		"adjective": [""],
+		"cityStateType": "Trading",
+		"style": "",
+		"uniques": [
+		],
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",		
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": ["City"]
+	},
+	{
+		"name": "Baumansky Alliance",
+		"adjective": [""],
+		"cityStateType": "Labor",
+		"style": "",
+		"uniques": [
+		],
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",		
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": ["City"]
+	},
+	{
+		"name": "Arbat Confederation",
+		"adjective": [""],
+		"cityStateType": "Trading",
+		"style": "",
+		"uniques": [
+		],
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",		
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": ["City"]
+	},
+	{
+		"name": "The Armory",
+		"adjective": [""],
+		"cityStateType": "Weapons",
+		"style": "",
+		"uniques": [
+		],
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",		
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": ["City"]
+	}, 
+	{
+		"name": "Belorusskaya Trade Outpost",
+		"adjective": [""],
+		"cityStateType": "Farming",
+		"style": "",
+		"uniques": [
+		],
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",		
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": ["City"]
+	},
+	{
+		"name": "Children of the Underground",
+		"adjective": [""],
+		"cityStateType": "", //Not sure, possibly Weapons
+		"style": "",
+		"uniques": [
+		],
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",		
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": ["City"]
+	},
+	{
+		"name": "Great Worm Cult",
+		"adjective": [""],
+		"cityStateType": "Prayer",
+		"style": "",
+		"uniques": [
+		],
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",		
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": ["City"]
+	},
+	{
+		"name": "The Watchtower",
+		"adjective": [""],
+		"cityStateType": "Prayer",
+		"style": "",
+		"uniques": [
+		],
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",		
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": ["City"]
+	},
+	{
+		"name": "Huliaipole Republic",
+		"adjective": [""],
+		"cityStateType": "", //Not sure, possibly Cultural or Weapons
+		"style": "",
+		"uniques": [
+		],
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",		
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": ["City"]
+	},
+	{
+		"name": "Molodezhnaya",
+		"adjective": [""],
+		"cityStateType": "", //Also not sure
+		"style": "",
+		"uniques": [
+		],
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",		
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": ["City"]
+	}
 ]
