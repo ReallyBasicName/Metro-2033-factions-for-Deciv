@@ -7,9 +7,9 @@
 	Satanists: Another minor faction to likely exclude
 	*/
 	{
-		"name": "VDNKh Commonwealth", //Trading, should provide Tea Leaves to its suzerain or conqueror like Fo Guang Shan in base DeCiv
+		"name": "VDNKh Commonwealth",
 		"adjective": [""],
-		"cityStateType": "Trading",
+		"cityStateType": "Trading", //should provide Tea Leaves to its suzerain or conqueror like Fo Guang Shan in base DeCiv
 		"style": "",
 		"uniques": [
 		],
